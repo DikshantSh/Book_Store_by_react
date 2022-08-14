@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Book_Store_by_react/static/css/main.d1c05550.css",
+    "main.js": "/Book_Store_by_react/static/js/main.1dce9082.js",
+    "static/js/787.fff7c81a.chunk.js": "/Book_Store_by_react/static/js/787.fff7c81a.chunk.js",
+    "static/media/books-background.jpg": "/Book_Store_by_react/static/media/books-background.45bcd1d74a5d74345aa1.jpg",
+    "static/media/items-image-7.jpg": "/Book_Store_by_react/static/media/items-image-7.5bbd2b14134e136fca16.jpg",
+    "static/media/items-image-1.jpg": "/Book_Store_by_react/static/media/items-image-1.0f766e6546f8cca3f00c.jpg",
+    "static/media/items-image-6.jpg": "/Book_Store_by_react/static/media/items-image-6.b3bf303fdd6ab59b2446.jpg",
+    "static/media/items-image-5.jpg": "/Book_Store_by_react/static/media/items-image-5.269f46e176506b72e9a6.jpg",
+    "static/media/items-image-2.jpg": "/Book_Store_by_react/static/media/items-image-2.8743e8c01934bb59ea78.jpg",
+    "static/media/items-image-4.jpg": "/Book_Store_by_react/static/media/items-image-4.dc5c1ade6a1d3828bb58.jpg",
+    "static/media/items-image-3.jpg": "/Book_Store_by_react/static/media/items-image-3.e698cc383720daa9e583.jpg",
+    "static/media/items-image-8.jpg": "/Book_Store_by_react/static/media/items-image-8.049af43e063e27be63e4.jpg",
+    "index.html": "/Book_Store_by_react/index.html",
+    "main.d1c05550.css.map": "/Book_Store_by_react/static/css/main.d1c05550.css.map",
+    "main.1dce9082.js.map": "/Book_Store_by_react/static/js/main.1dce9082.js.map",
+    "787.fff7c81a.chunk.js.map": "/Book_Store_by_react/static/js/787.fff7c81a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c05550.css",
+    "static/js/main.1dce9082.js"
+  ]
+}
